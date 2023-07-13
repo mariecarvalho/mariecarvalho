@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! I'm Mary.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! I'm Mari</h1>
 
 
-<p>Welcome to my page! </br> I'm Mary, Fullstack Blockchain Developer from <b>São Paulo, Brazil</b>.
+<p>Welcome to my page! </br> I'm Mari, Fullstack Blockchain Developer from <b>São Paulo, Brazil</b>.
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
